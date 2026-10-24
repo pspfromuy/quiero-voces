@@ -1,75 +1,75 @@
 {
- "version": "fdb386714d279408",
+ "version": "195266b67bcff37d",
  "packs": [
   {
    "id": "abuela",
    "archivo": "abuela.zip",
-   "bytes": 1090187,
-   "sha256": "e7c263982b25ee6f56323fb9147294e0ab8a204fadd171b3eafe0189593ef49d",
-   "frases": 109
+   "bytes": 1096243,
+   "sha256": "7e0b290b72c39d108d7d93a211ce6c20157e9b189613b9bb179c94867ec8a443",
+   "frases": 110
   },
   {
    "id": "anamonterroso",
    "archivo": "anamonterroso.zip",
-   "bytes": 1122995,
-   "sha256": "7cf891ab128d9f46879c08acc98d0306fea03083cadef3401f47234d16b8bf5c",
-   "frases": 106
+   "bytes": 1128896,
+   "sha256": "fc21bb1751a1a34b4202afda3cf09f046fd6b54297eb5c926dbd848924978ec7",
+   "frases": 107
   },
   {
    "id": "artigas",
    "archivo": "artigas.zip",
-   "bytes": 1239333,
-   "sha256": "f9996436a77c3738d5a4c01eae0c7efbaffca8bf1a175b955b368d4104d3a86a",
-   "frases": 106
+   "bytes": 1247032,
+   "sha256": "b001901385079786208c615807fe428533508d1ab642a4048557bcecc904bd1d",
+   "frases": 107
   },
   {
    "id": "canillita",
    "archivo": "canillita.zip",
-   "bytes": 1149344,
-   "sha256": "b27f46b89e53e94788aa1129a37c16519bb7ee7a6be83e0851758b7efcedca94",
-   "frases": 107
+   "bytes": 1156111,
+   "sha256": "514bfbe22003426bc0811a0ac10296829abad336f5cf9e522a5d9ca024f49b75",
+   "frases": 108
   },
   {
    "id": "feriante",
    "archivo": "feriante.zip",
-   "bytes": 1134720,
-   "sha256": "76a2676169f29d0586bca3b250e28ef59d6fcdbd3cc660071658caa2ad8d85a3",
-   "frases": 110
+   "bytes": 1140499,
+   "sha256": "fcd46ab3ff45fc59082dbef450093131ab9c612186ecaff72699de49eb629889",
+   "frases": 111
   },
   {
    "id": "golero",
    "archivo": "golero.zip",
-   "bytes": 1219483,
-   "sha256": "bfda478ea2df9a5510f72ed93b9a7a73bb710ea957d6f03c378b1eb877b16921",
-   "frases": 106
+   "bytes": 1227500,
+   "sha256": "d5515cada3b3f777b619ffe1c601097f6e6fba7880ed17f17b743f04398e35aa",
+   "frases": 107
   },
   {
    "id": "hincha",
    "archivo": "hincha.zip",
-   "bytes": 1023268,
-   "sha256": "925b12bdc574a338ed4625336ca25c0e4fae5decea5e1945296e1dd215003a9c",
-   "frases": 111
+   "bytes": 1028832,
+   "sha256": "59afaa0922253e957b28cf30c72f1ebc33e6e0e4179ea4aef782a094c81c29f2",
+   "frases": 112
   },
   {
    "id": "josefaoribe",
    "archivo": "josefaoribe.zip",
-   "bytes": 971877,
-   "sha256": "60828f083b289dec74d99c888d6376cc033a173a13d1434ffd8a38e35d969c0a",
-   "frases": 107
+   "bytes": 977663,
+   "sha256": "4d527a658822f6f3905c374e2cfbfdfa3af5d3c19d67df9754e1f646958fb881",
+   "frases": 108
   },
   {
    "id": "lavalleja",
    "archivo": "lavalleja.zip",
-   "bytes": 1068426,
-   "sha256": "6cd2273270ec6fec6f57e877e920779a3ba6e04842485c93f9fc1257df758fc1",
-   "frases": 108
+   "bytes": 1075713,
+   "sha256": "6408f5364bf04a527410e4fc21fbdc571793a0c88a71e46cd526f438f79aca6f",
+   "frases": 109
   },
   {
    "id": "mozo",
    "archivo": "mozo.zip",
-   "bytes": 1230312,
-   "sha256": "d7129b20037bdef7d2dd1df00e2def07105a45e4edba122dfee67ca50d8c0026",
-   "frases": 108
+   "bytes": 1237767,
+   "sha256": "5bc50539f3c6a5ccd3835263a539fbbdd87181b3a75c48d6932d38a6e9431832",
+   "frases": 109
   },
   {
    "id": "profe",
@@ -81,16 +81,16 @@
   {
    "id": "relator",
    "archivo": "relator.zip",
-   "bytes": 1195058,
-   "sha256": "557066d94e09eb40587370d2c551d9ee87dca0a8dc73a789273a86651e82047c",
-   "frases": 111
+   "bytes": 1201846,
+   "sha256": "8d9ff712e2a839daace784fb9266b24791a9dda78e8b57b01dc30e1104662ae8",
+   "frases": 112
   },
   {
    "id": "vecina",
    "archivo": "vecina.zip",
-   "bytes": 1010707,
-   "sha256": "6ea88a4ad01243f559381b62745fa54647bf084cda459411722265267ce46ce7",
-   "frases": 108
+   "bytes": 1016687,
+   "sha256": "f0e9a58a2f9c7c2c6afcc40fd0b32394657b20699d4945cdca1c1f2b2faad5a8",
+   "frases": 109
   }
  ]
 }
